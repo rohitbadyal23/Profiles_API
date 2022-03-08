@@ -7,9 +7,9 @@ Created a REST API using Django, Django REST Framework, Python, Vagrant, Virtual
   Post status updates and 
   View status update feeds
 
-For Django server
-Vagrant up
-Vagrant ssh
-cd /vagrant
-source ~/env/bin/activate
-Python manage.py runserver 0.0.0.0:8000
+For Django server: 
+Vagrant up ->
+Vagrant ssh -> 
+cd /vagrant -> 
+source ~/env/bin/activate -> 
+Python manage.py runserver 0.0.0.0:8000 
